@@ -1,11 +1,11 @@
 # Exploit android 
 
-#
+##
 
-#
+##
 
 
-#
+##
 Through this tool you can hack any 
 Android device around the world without opening a port. Hack and let the fun happen 
 
@@ -17,6 +17,9 @@ Android device around the world without opening a port. Hack and let the fun hap
 
 #
 
+## install 
+
+<textarea readonly>git clone https://github.com/MR-DARK54/Ex</textarea>
 
 
 ## development  : 
@@ -25,7 +28,7 @@ You can develop your own source for the application only
 
 
 
-print ("Hi") 
+
 
 
 
