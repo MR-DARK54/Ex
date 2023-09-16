@@ -17,8 +17,8 @@ Android device around the world without opening a port. Hack and let the fun hap
 
 #
 
-## install 
-︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎
+## install
+
 git clone https://github.com/MR-DARK54/Ex
 
 
