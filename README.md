@@ -9,14 +9,23 @@
 Through this tool you can hack any 
 Android device around the world without opening a port. Hack and let the fun happen 
 
+#
+
+#
+
+#
+
+#
 
 
 
+## development  : 
+
+You can develop your own source for the application only 
 
 
 
-
-
+print ("Hi") 
 
 
 
