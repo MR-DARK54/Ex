@@ -53,6 +53,14 @@ bash ex.sh
 
 
 
+## photo  
+
+
+<p align='center'><img src="https://c.top4top.io/p_2814vgend1.jpg" ></p>
+
+
+
+
 ## development  : 
 
 You can develop your own source for the application only 
